@@ -4,8 +4,6 @@ const fs = require('fs');
 
 const app = require('./app')
 
-
-
 let rooms = [];
 let bookings = [];
 let bookingIdCounter = 1;
