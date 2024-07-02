@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "customerName": "Hari Haran",
+    "date": "2024-08-10",
+    "startTime": "11:00 AM",
+    "endTime": "12:00 AM",
+    "roomId": 1,
+    "bookingStatus": "Booked"
+  },
+  {
+    "id": 2,
+    "customerName": "Evan Joe",
+    "date": "2024-08-15",
+    "startTime": "10:00 AM",
+    "endTime": "12:00 AM",
+    "roomId": 5,
+    "bookingStatus": "Booked"
+  },
+  {
+    "id": 3,
+    "customerName": "Evan Joe",
+    "date": "2024-08-15",
+    "startTime": "10:00 AM",
+    "endTime": "12:00 AM",
+    "roomId": 6,
+    "bookingStatus": "Booked"
+  }
+]

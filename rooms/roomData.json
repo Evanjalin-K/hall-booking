@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "roomName": "A1",
+    "seats": 300,
+    "amenities": [
+      "Projector",
+      "Whiteboard",
+      "Ac"
+    ],
+    "pricePerHour": 200000
+  },
+  {
+    "id": 2,
+    "roomName": "A2",
+    "seats": 200,
+    "amenities": [
+      "Projector",
+      "Whiteboard",
+      "Ac"
+    ],
+    "pricePerHour": 100000
+  },
+  {
+    "id": 3,
+    "roomName": "A3",
+    "seats": 100,
+    "amenities": [
+      "Projector",
+      "Whiteboard",
+      "Ac"
+    ],
+    "pricePerHour": 70000
+  },
+  {
+    "id": 4,
+    "roomName": "A4",
+    "seats": 50,
+    "amenities": [
+      "Projector",
+      "Whiteboard",
+      "Ac"
+    ],
+    "pricePerHour": 50000
+  },
+  {
+    "id": 5,
+    "roomName": "A5",
+    "seats": 25,
+    "amenities": [
+      "Projector",
+      "Whiteboard",
+      "Ac"
+    ],
+    "pricePerHour": 25000
+  },
+  {
+    "id": 6,
+    "roomName": "A6",
+    "seats": 10,
+    "amenities": [
+      "Projector",
+      "Whiteboard",
+      "Ac"
+    ],
+    "pricePerHour": 10000
+  },
+  {
+    "id": 7,
+    "roomName": "A7",
+    "seats": 3,
+    "amenities": [
+      "Projector",
+      "Whiteboard",
+      "Ac"
+    ],
+    "pricePerHour": 3000
+  }
+]
