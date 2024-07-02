@@ -74,16 +74,16 @@ Using GET method we can list all the customer with booked data.
 
 Using the GET method, we can get how many times a customer has booked the room with the above details.
 
-# The task is created by using nodejs and expressjs.
+### The task is created by using nodejs and expressjs.
 
-# Packages Used:
+### Packages Used:
 
    - npm init
    - npm install express
    - npm install nodemon
    - npm install dotenv
 
-# Used Postman for GET and POST Methods
+### Used Postman for GET and POST Methods
 
 
 
