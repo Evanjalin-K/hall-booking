@@ -1,6 +1,7 @@
 ## Hall Booking API
 
 1. To Creating a Room with:
+
    - Room Name
    - Number of seats available
    - amenities in room
@@ -18,6 +19,7 @@ Using the POST method, the room is created and stored in a folder called rooms i
 ```
 
 2. Booking a room with:
+
    - Customer Name
    - Date
    - Start Time
@@ -38,6 +40,7 @@ Using the POST method, rooms have been booked and stored in the existing folder 
 ```
 
 3. List all the Rooms with Booked data:
+
    - Room Name
    - Booked Status
    - Customer Name
@@ -48,6 +51,7 @@ Using the POST method, rooms have been booked and stored in the existing folder 
 Using GET method we can list all the rooms with booked data.
 
 4. List all the customer with booked data with:
+
    - Customer Name
    - Room Name
    - Date
@@ -58,6 +62,7 @@ Using GET method we can list all the customer with booked data.
 
 
 5. List how many times a customer has booked the room with below details:
+
    - Customr Name
    - Room Name
    - Date
@@ -69,16 +74,16 @@ Using GET method we can list all the customer with booked data.
 
 Using the GET method, we can get how many times a customer has booked the room with the above details.
 
-## The task is created by using nodejs and expressjs.
+# The task is created by using nodejs and expressjs.
 
-## Packages Used:
+# Packages Used:
 
    - npm init
    - npm install express
    - npm install nodemon
    - npm install dotenv
 
-## Used Postman to for GET and POST Method
+# Used Postman for GET and POST Methods
 
 
 
